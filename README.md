@@ -21,17 +21,17 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Screenshots
 
 ### Landing Page
-![Landing Page](https://raw.githubusercontent.com/gseals/React-Todolist/master/screenshots/LandingPage.png)
+![Landing Page](https://raw.githubusercontent.com/gseals/quizbee/master/screenshots/LandingPage.png)
 
 ### Answers Chosen
-![Answers Chosen](https://raw.githubusercontent.com/gseals/React-Todolist/master/screenshots/AddItem.png)
+![Answers Chosen](https://raw.githubusercontent.com/gseals/quizbee/master/screenshots/AnswersChosen.png)
 
 ### Results
-![Results](https://raw.githubusercontent.com/gseals/React-Todolist/master/screenshots/EditItem.png)
+![Results](https://raw.githubusercontent.com/gseals/quizbee/master/screenshots/Results.png)
 
 ## How to Run
 
-* Clone down this project from [GitHub](https://github.com/gseals/React-Todolist)
+* Clone down this project from [GitHub](https://github.com/gseals/quizbee)
 * Install [http-server](https://www.npmjs.com/package/http-server) from npm.
 * In your browser, navigate to [https://localhost:3000/](https://localhost:3000/)
 
