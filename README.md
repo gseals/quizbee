@@ -8,7 +8,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Demo Link
 
-* [Check out the Project](https://gseals.github.io/React-in-github-demo/)
+* [Check out the Project](https://gseals.github.io/quizbee/)
 
 ## Technologies Used
 
